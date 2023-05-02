@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Reza Yousefi</h1>
+<picture>
+ <img alt="YOUR-ALT-TEXT" src="https://avatars.githubusercontent.com/u/32484598?s=40&v=4">
+</picture>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 
 - 🔭 I’m currently working on [https://github.com/TheRezDev/react-shopping-app2](https://github.com/TheRezDev/react-shopping-app2)
